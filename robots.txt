@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ifdess.cn/sitemap.xml
+Sitemap: https://ifdess.github.io/sitemap.xml
