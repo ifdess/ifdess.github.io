@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江苏  on IFDESS&#39; BLOG</title>
+    <link>http://localhost:1313/tags/%E6%B1%9F%E8%8B%8F-/</link>
+    <description>Recent content in 江苏  on IFDESS&#39; BLOG</description>
+    <image>
+      <title>IFDESS&#39; BLOG</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B1%9F%E8%8B%8F-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>五一游记——苏州</title>
+      <link>http://localhost:1313/posts/15suvbwuyi/</link>
+      <pubDate>Sun, 05 May 2024 00:00:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/15suvbwuyi/</guid>
+      <description>从吴江到无锡，两趟公交，两趟地铁，一趟火车，一个人，两个半小时。 太湖学院 高中的时候我有一个想法，就是坐在大学校园的草地上，和一群好朋友围在一</description>
+    </item>
+  </channel>
+</rss>
