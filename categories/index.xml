@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 05 May 2024 00:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:00:01 +0000</lastBuildDate>
     <atom:link href="https://ifdess.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教学</title>
+      <link>https://ifdess.github.io/categories/%E6%95%99%E5%AD%A6/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:01 +0000</pubDate>
+      <guid>https://ifdess.github.io/categories/%E6%95%99%E5%AD%A6/</guid>
+      <description></description>
+    </item>
     <item>
       <title>生活</title>
       <link>https://ifdess.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Sun, 05 May 2024 00:00:01 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2024 00:00:01 +0000</pubDate>
       <guid>https://ifdess.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
