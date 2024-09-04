@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江苏 on IFDESS&#39; BLOG</title>
+    <link>https://ifdess.cn/tags/%E6%B1%9F%E8%8B%8F/</link>
+    <description>Recent content in 江苏 on IFDESS&#39; BLOG</description>
+    <image>
+      <title>IFDESS&#39; BLOG</title>
+      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:01 +0800</lastBuildDate>
+    <atom:link href="https://ifdess.cn/tags/%E6%B1%9F%E8%8B%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>五一游记——苏州</title>
+      <link>https://ifdess.cn/posts/15suvbwuyi/</link>
+      <pubDate>Sun, 05 May 2024 00:00:01 +0800</pubDate>
+      <guid>https://ifdess.cn/posts/15suvbwuyi/</guid>
+      <description>&lt;p&gt;一场没有计划的苏州City Walk &amp;amp; Look，我们并不在意去了哪里，或是哪里没去。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>无锡游记</title>
+      <link>https://ifdess.cn/posts/14wuxiybji/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:01 +0800</pubDate>
+      <guid>https://ifdess.cn/posts/14wuxiybji/</guid>
+      <description>&lt;p&gt;从吴江到无锡，两趟公交，两趟地铁，一趟火车，一个人，两个半小时。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

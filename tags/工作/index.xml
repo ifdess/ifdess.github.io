@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作 on IFDESS&#39; BLOG</title>
+    <link>https://ifdess.cn/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on IFDESS&#39; BLOG</description>
+    <image>
+      <title>IFDESS&#39; BLOG</title>
+      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:01 +0800</lastBuildDate>
+    <atom:link href="https://ifdess.cn/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024年求职记</title>
+      <link>https://ifdess.cn/posts/13suvbqqso/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:01 +0800</pubDate>
+      <guid>https://ifdess.cn/posts/13suvbqqso/</guid>
+      <description>&lt;p&gt;仔细算来，离职已经刚好一个月。已经入职新工作也快两周了，写这篇博客记录一下这段时间的经历。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023总结 &amp; 2024计划</title>
+      <link>https://ifdess.cn/posts/10xnxczsjx/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:01 +0800</pubDate>
+      <guid>https://ifdess.cn/posts/10xnxczsjx/</guid>
+      <description>&lt;p&gt;第一次写年度总结，也不知道要怎么写，就按照时间顺序随便叙叙吧，也不知道能记起多少。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on IFDESS&#39; BLOG</title>
+    <link>https://ifdess.cn/tags/github/</link>
+    <description>Recent content in Github on IFDESS&#39; BLOG</description>
+    <image>
+      <title>IFDESS&#39; BLOG</title>
+      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://ifdess.cn/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目介绍【note.ifdess.cn】</title>
+      <link>https://ifdess.cn/posts/8notejxuk/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0800</pubDate>
+      <guid>https://ifdess.cn/posts/8notejxuk/</guid>
+      <description>&lt;p&gt;这个网站是参考我以前用过的一个网站，觉得很好用。现在是二创搭建，主要优化了界面显示和增加了编辑器功能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
