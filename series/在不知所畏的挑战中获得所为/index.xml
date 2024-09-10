@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>在不知所畏的挑战中获得所为 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/series/%E5%9C%A8%E4%B8%8D%E7%9F%A5%E6%89%80%E7%95%8F%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%AD%E8%8E%B7%E5%BE%97%E6%89%80%E4%B8%BA/</link>
+    <link>https://ifdess.github.io/series/%E5%9C%A8%E4%B8%8D%E7%9F%A5%E6%89%80%E7%95%8F%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%AD%E8%8E%B7%E5%BE%97%E6%89%80%E4%B8%BA/</link>
     <description>Recent content in 在不知所畏的挑战中获得所为 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/series/%E5%9C%A8%E4%B8%8D%E7%9F%A5%E6%89%80%E7%95%8F%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%AD%E8%8E%B7%E5%BE%97%E6%89%80%E4%B8%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/series/%E5%9C%A8%E4%B8%8D%E7%9F%A5%E6%89%80%E7%95%8F%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%AD%E8%8E%B7%E5%BE%97%E6%89%80%E4%B8%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>项目介绍【note.ifdess.cn】</title>
-      <link>https://ifdess.cn/posts/8notejxuk/</link>
+      <link>https://ifdess.github.io/posts/8notejxuk/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/8notejxuk/</guid>
+      <guid>https://ifdess.github.io/posts/8notejxuk/</guid>
       <description>&lt;p&gt;这个网站是参考我以前用过的一个网站，觉得很好用。现在是二创搭建，主要优化了界面显示和增加了编辑器功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>给自己的挑战书：坚持早睡1个月</title>
-      <link>https://ifdess.cn/posts/7zkuvtcvj/</link>
+      <link>https://ifdess.github.io/posts/7zkuvtcvj/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/7zkuvtcvj/</guid>
+      <guid>https://ifdess.github.io/posts/7zkuvtcvj/</guid>
       <description>&lt;p&gt;从前到现在，欠了不少东西，“时间“算是欠得比较多，但早晚是要还的。&lt;/p&gt;</description>
     </item>
   </channel>

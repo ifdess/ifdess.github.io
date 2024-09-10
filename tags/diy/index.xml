@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/diy/</link>
+    <link>https://ifdess.github.io/tags/diy/</link>
     <description>Recent content in DIY on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 02 Jan 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>通过 Kali 钓鱼获得WIFI密码</title>
-      <link>https://ifdess.cn/posts/2kalidcyu/</link>
+      <link>https://ifdess.github.io/posts/2kalidcyu/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/2kalidcyu/</guid>
+      <guid>https://ifdess.github.io/posts/2kalidcyu/</guid>
       <description>&lt;p&gt;记得那是一个炎热烦闷的下午，10086又一次提醒我流量告急，活人还能被流量憋死？&lt;/p&gt;</description>
     </item>
   </channel>

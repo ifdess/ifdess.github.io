@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生命在于浪费，也在于折腾 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/series/%E7%94%9F%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%B5%AA%E8%B4%B9%E4%B9%9F%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/</link>
+    <link>https://ifdess.github.io/series/%E7%94%9F%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%B5%AA%E8%B4%B9%E4%B9%9F%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/</link>
     <description>Recent content in 生命在于浪费，也在于折腾 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 09 Jan 2024 10:15:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/series/%E7%94%9F%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%B5%AA%E8%B4%B9%E4%B9%9F%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/series/%E7%94%9F%E5%91%BD%E5%9C%A8%E4%BA%8E%E6%B5%AA%E8%B4%B9%E4%B9%9F%E5%9C%A8%E4%BA%8E%E6%8A%98%E8%85%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>折腾日志之WTG/LTG</title>
-      <link>https://ifdess.cn/posts/9vetgwtg/</link>
+      <link>https://ifdess.github.io/posts/9vetgwtg/</link>
       <pubDate>Tue, 09 Jan 2024 10:15:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/9vetgwtg/</guid>
+      <guid>https://ifdess.github.io/posts/9vetgwtg/</guid>
       <description>&lt;p&gt;也有一段时间没有写博客了，记录一下最近的折腾经历。最近依然是不务正业的研究一些小东西，说是研究，其实也不过是学习其他大佬的方法和思路，说抄作业应该更恰当。&lt;/p&gt;</description>
     </item>
     <item>
       <title>通过 Kali 钓鱼获得WIFI密码</title>
-      <link>https://ifdess.cn/posts/2kalidcyu/</link>
+      <link>https://ifdess.github.io/posts/2kalidcyu/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/2kalidcyu/</guid>
+      <guid>https://ifdess.github.io/posts/2kalidcyu/</guid>
       <description>&lt;p&gt;记得那是一个炎热烦闷的下午，10086又一次提醒我流量告急，活人还能被流量憋死？&lt;/p&gt;</description>
     </item>
   </channel>

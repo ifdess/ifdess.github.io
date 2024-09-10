@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WTG on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/wtg/</link>
+    <link>https://ifdess.github.io/tags/wtg/</link>
     <description>Recent content in WTG on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 09 Jan 2024 10:15:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/wtg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/wtg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>折腾日志之WTG/LTG</title>
-      <link>https://ifdess.cn/posts/9vetgwtg/</link>
+      <link>https://ifdess.github.io/posts/9vetgwtg/</link>
       <pubDate>Tue, 09 Jan 2024 10:15:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/9vetgwtg/</guid>
+      <guid>https://ifdess.github.io/posts/9vetgwtg/</guid>
       <description>&lt;p&gt;也有一段时间没有写博客了，记录一下最近的折腾经历。最近依然是不务正业的研究一些小东西，说是研究，其实也不过是学习其他大佬的方法和思路，说抄作业应该更恰当。&lt;/p&gt;</description>
     </item>
   </channel>

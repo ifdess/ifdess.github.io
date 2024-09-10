@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教学 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/%E6%95%99%E5%AD%A6/</link>
+    <link>https://ifdess.github.io/tags/%E6%95%99%E5%AD%A6/</link>
     <description>Recent content in 教学 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 13 Jun 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/%E6%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/%E6%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新增教学（教师）版类</title>
-      <link>https://ifdess.cn/posts/17xnzfjcxt/</link>
+      <link>https://ifdess.github.io/posts/17xnzfjcxt/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/17xnzfjcxt/</guid>
+      <guid>https://ifdess.github.io/posts/17xnzfjcxt/</guid>
       <description>&lt;p&gt;好的老师应该是生活的艺术家，具有良好的品行，淡泊物质追求，高度关怀现实社会，内心宁静，行为洒脱，一言一行都足以为人典范。&lt;/p&gt;</description>
     </item>
   </channel>

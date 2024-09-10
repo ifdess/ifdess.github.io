@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>春节 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/%E6%98%A5%E8%8A%82/</link>
+    <link>https://ifdess.github.io/tags/%E6%98%A5%E8%8A%82/</link>
     <description>Recent content in 春节 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 24 Feb 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/%E6%98%A5%E8%8A%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/%E6%98%A5%E8%8A%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>春节游记——云南</title>
-      <link>https://ifdess.cn/posts/11ypnjipjx/</link>
+      <link>https://ifdess.github.io/posts/11ypnjipjx/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/11ypnjipjx/</guid>
+      <guid>https://ifdess.github.io/posts/11ypnjipjx/</guid>
       <description>&lt;p&gt;因为2023年6月家里买了辆车，于是就决定了24年春节来一场自驾游。初二天还没亮，哈哈桑（我妈）、我堂姐还有我便启程前往云南了。&lt;/p&gt;</description>
     </item>
   </channel>

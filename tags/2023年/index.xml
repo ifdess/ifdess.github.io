@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023年 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/2023%E5%B9%B4/</link>
+    <link>https://ifdess.github.io/tags/2023%E5%B9%B4/</link>
     <description>Recent content in 2023年 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 05 Feb 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/2023%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/2023%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023总结 &amp; 2024计划</title>
-      <link>https://ifdess.cn/posts/10xnxczsjx/</link>
+      <link>https://ifdess.github.io/posts/10xnxczsjx/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/10xnxczsjx/</guid>
+      <guid>https://ifdess.github.io/posts/10xnxczsjx/</guid>
       <description>&lt;p&gt;第一次写年度总结，也不知道要怎么写，就按照时间顺序随便叙叙吧，也不知道能记起多少。&lt;/p&gt;</description>
     </item>
   </channel>

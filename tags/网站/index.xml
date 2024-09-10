@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网站 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/%E7%BD%91%E7%AB%99/</link>
+    <link>https://ifdess.github.io/tags/%E7%BD%91%E7%AB%99/</link>
     <description>Recent content in 网站 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[公告：博客网址变更通知]</title>
-      <link>https://ifdess.cn/posts/18divibmgf/</link>
+      <link>https://ifdess.github.io/posts/18divibmgf/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/18divibmgf/</guid>
+      <guid>https://ifdess.github.io/posts/18divibmgf/</guid>
       <description>亲爱的读者们， 感谢大家一直以来对此博客的支持和关注。为了提高国内访问速度，我决定将博客迁移到新的网址：ifdess.cn 。新的博客地址将提供</description>
     </item>
     <item>
       <title>项目介绍【note.ifdess.cn】</title>
-      <link>https://ifdess.cn/posts/8notejxuk/</link>
+      <link>https://ifdess.github.io/posts/8notejxuk/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/8notejxuk/</guid>
+      <guid>https://ifdess.github.io/posts/8notejxuk/</guid>
       <description>&lt;p&gt;这个网站是参考我以前用过的一个网站，觉得很好用。现在是二创搭建，主要优化了界面显示和增加了编辑器功能。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>以蝼蚁身，行万里路 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/series/%E4%BB%A5%E8%9D%BC%E8%9A%81%E8%BA%AB%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</link>
+    <link>https://ifdess.github.io/series/%E4%BB%A5%E8%9D%BC%E8%9A%81%E8%BA%AB%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</link>
     <description>Recent content in 以蝼蚁身，行万里路 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 05 May 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/series/%E4%BB%A5%E8%9D%BC%E8%9A%81%E8%BA%AB%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/series/%E4%BB%A5%E8%9D%BC%E8%9A%81%E8%BA%AB%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>五一游记——苏州</title>
-      <link>https://ifdess.cn/posts/15suvbwuyi/</link>
+      <link>https://ifdess.github.io/posts/15suvbwuyi/</link>
       <pubDate>Sun, 05 May 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/15suvbwuyi/</guid>
+      <guid>https://ifdess.github.io/posts/15suvbwuyi/</guid>
       <description>&lt;p&gt;一场没有计划的苏州City Walk &amp;amp; Look，我们并不在意去了哪里，或是哪里没去。&lt;/p&gt;</description>
     </item>
     <item>
       <title>无锡游记</title>
-      <link>https://ifdess.cn/posts/14wuxiybji/</link>
+      <link>https://ifdess.github.io/posts/14wuxiybji/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/14wuxiybji/</guid>
+      <guid>https://ifdess.github.io/posts/14wuxiybji/</guid>
       <description>&lt;p&gt;从吴江到无锡，两趟公交，两趟地铁，一趟火车，一个人，两个半小时。&lt;/p&gt;</description>
     </item>
     <item>
       <title>春节游记——云南</title>
-      <link>https://ifdess.cn/posts/11ypnjipjx/</link>
+      <link>https://ifdess.github.io/posts/11ypnjipjx/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/11ypnjipjx/</guid>
+      <guid>https://ifdess.github.io/posts/11ypnjipjx/</guid>
       <description>&lt;p&gt;因为2023年6月家里买了辆车，于是就决定了24年春节来一场自驾游。初二天还没亮，哈哈桑（我妈）、我堂姐还有我便启程前往云南了。&lt;/p&gt;</description>
     </item>
   </channel>

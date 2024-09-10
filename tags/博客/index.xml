@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on IFDESS&#39; BLOG</title>
-    <link>https://ifdess.cn/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://ifdess.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on IFDESS&#39; BLOG</description>
     <image>
       <title>IFDESS&#39; BLOG</title>
-      <url>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ifdess.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ifdess.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:01 +0800</lastBuildDate>
-    <atom:link href="https://ifdess.cn/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ifdess.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[公告：博客网址变更通知]</title>
-      <link>https://ifdess.cn/posts/18divibmgf/</link>
+      <link>https://ifdess.github.io/posts/18divibmgf/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/18divibmgf/</guid>
+      <guid>https://ifdess.github.io/posts/18divibmgf/</guid>
       <description>亲爱的读者们， 感谢大家一直以来对此博客的支持和关注。为了提高国内访问速度，我决定将博客迁移到新的网址：ifdess.cn 。新的博客地址将提供</description>
     </item>
     <item>
       <title>不务正业成就达成：拥有自己的博客</title>
-      <link>https://ifdess.cn/posts/3bokeifjq/</link>
+      <link>https://ifdess.github.io/posts/3bokeifjq/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:01 +0800</pubDate>
-      <guid>https://ifdess.cn/posts/3bokeifjq/</guid>
+      <guid>https://ifdess.github.io/posts/3bokeifjq/</guid>
       <description>&lt;p&gt;视频自媒体时代，不会还有人会在平淡的日子里，用一杯茶作伴，写一篇没人看的博客吧？&lt;/p&gt;</description>
     </item>
   </channel>
